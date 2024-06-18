@@ -138,6 +138,9 @@ public class Ventana {
     public void BajarPersiana() {
     	// Por implementar
     }
+    public void EliminarPersiana(){
+    	// Por implementar 
+    }
     
     public void SubirPersiana() {
     	// Por implementar
